@@ -3,7 +3,7 @@
   <groupId>com.loopmediagroup.client</groupId>
   <artifactId>sdk</artifactId>
   <versioning>
-    <release>1.1.0-3290</release>
+    <release>1.1.0-3298</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-rc.2775</version>
@@ -33,7 +33,8 @@
       <version>1.1.1-3270</version>
       <version>1.1.0-3274</version>
       <version>1.1.0-3290</version>
+      <version>1.1.0-3298</version>
     </versions>
-    <lastUpdated>20191220172015</lastUpdated>
+    <lastUpdated>20191220192748</lastUpdated>
   </versioning>
 </metadata>
