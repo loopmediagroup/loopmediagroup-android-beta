@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.9",
-      "buildId": "6mhnbrwsgrexnlepzmvu3qubu4"
+      "buildId": "lyowkloilrdctmykef5ldoed54"
     }
   },
   "variants": [
@@ -58,11 +58,11 @@
         {
           "name": "sdk-release.aar",
           "url": "sdk-1.6.1-rc.1.aar",
-          "size": 1662664,
-          "sha512": "15f35fcda081d48b36c6cceb63f5d592e2c1b5c9f0f77ba82d1347fe62a5e25bae10c6702e107776cd6a57b945991cc6769e90c25d835154d6f4e84ae4883003",
-          "sha256": "f79ff3a684ac32aabe446635152a3e6bc26ede5d9cf7b60d1903f9e38f36c90d",
-          "sha1": "f191f3c77dddf63b5f0eac12cf6af0451c2a4c58",
-          "md5": "ed598c1517929fb1c4fbf8fdc728ddd5"
+          "size": 1659629,
+          "sha512": "788c56c9178acb5f73f7ec7d1fb8618a072ce6721b450b22754b7f5c6e72ad3a2bf7a5a2451e859f27ffc56628a5a654c46bf4eba3b9a3856851df831ffc9ea6",
+          "sha256": "810aa9074d0e546691868fc8e52a3a7f55bef2e49daebe5eedb4f28c2dacf9f6",
+          "sha1": "43a4cad14b3476fa0f5eb766ff3309102e5019ef",
+          "md5": "b3659a3d092ab69fcf5a330dc64d5f3c"
         }
       ]
     },
@@ -171,11 +171,11 @@
         {
           "name": "sdk-release.aar",
           "url": "sdk-1.6.1-rc.1.aar",
-          "size": 1662664,
-          "sha512": "15f35fcda081d48b36c6cceb63f5d592e2c1b5c9f0f77ba82d1347fe62a5e25bae10c6702e107776cd6a57b945991cc6769e90c25d835154d6f4e84ae4883003",
-          "sha256": "f79ff3a684ac32aabe446635152a3e6bc26ede5d9cf7b60d1903f9e38f36c90d",
-          "sha1": "f191f3c77dddf63b5f0eac12cf6af0451c2a4c58",
-          "md5": "ed598c1517929fb1c4fbf8fdc728ddd5"
+          "size": 1659629,
+          "sha512": "788c56c9178acb5f73f7ec7d1fb8618a072ce6721b450b22754b7f5c6e72ad3a2bf7a5a2451e859f27ffc56628a5a654c46bf4eba3b9a3856851df831ffc9ea6",
+          "sha256": "810aa9074d0e546691868fc8e52a3a7f55bef2e49daebe5eedb4f28c2dacf9f6",
+          "sha1": "43a4cad14b3476fa0f5eb766ff3309102e5019ef",
+          "md5": "b3659a3d092ab69fcf5a330dc64d5f3c"
         }
       ]
     }
