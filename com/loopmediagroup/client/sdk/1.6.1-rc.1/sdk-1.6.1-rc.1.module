@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.9",
-      "buildId": "spm5kzeu4jhqznt62xuhkpfc44"
+      "buildId": "wfrhirm5ojaxxpge6d3okrnqdu"
     }
   },
   "variants": [
@@ -58,11 +58,11 @@
         {
           "name": "sdk-release.aar",
           "url": "sdk-1.6.1-rc.1.aar",
-          "size": 1659599,
-          "sha512": "e48077af3e6a2b6d827686819f4c73aa258ce2692627b641a2d76cd3fda9974746284849a7ecd46737bd209b9afb4b3dbc2b83a33c7d87fe79ac789a383f8027",
-          "sha256": "5336ac47bf5e10cb807077611a9957bfa4c8415fac7586f7e5f32b298287648a",
-          "sha1": "0ea267b89a48f0dc07a03ab154ddb3851f49c8ea",
-          "md5": "c93741187ba19191261d70aedc40d21f"
+          "size": 1664250,
+          "sha512": "491b377ceebac40b4a0bef2c10407310932110d9db851a9797192f79c1f469745a7bbab1557f616041f701c276d5f14a204d3e3e8f05bd42306ac30e1320b4f3",
+          "sha256": "06f6ab42bcb2492ce1e0232a0012f5e0c70f8f1c58e00aa746ced3c21d9c646b",
+          "sha1": "9d4ec35e403ebc1a7d5dcdb1b18fd1762a24c966",
+          "md5": "e6211b0ce30adb6910c743dacbb1afa2"
         }
       ]
     },
@@ -171,11 +171,11 @@
         {
           "name": "sdk-release.aar",
           "url": "sdk-1.6.1-rc.1.aar",
-          "size": 1659599,
-          "sha512": "e48077af3e6a2b6d827686819f4c73aa258ce2692627b641a2d76cd3fda9974746284849a7ecd46737bd209b9afb4b3dbc2b83a33c7d87fe79ac789a383f8027",
-          "sha256": "5336ac47bf5e10cb807077611a9957bfa4c8415fac7586f7e5f32b298287648a",
-          "sha1": "0ea267b89a48f0dc07a03ab154ddb3851f49c8ea",
-          "md5": "c93741187ba19191261d70aedc40d21f"
+          "size": 1664250,
+          "sha512": "491b377ceebac40b4a0bef2c10407310932110d9db851a9797192f79c1f469745a7bbab1557f616041f701c276d5f14a204d3e3e8f05bd42306ac30e1320b4f3",
+          "sha256": "06f6ab42bcb2492ce1e0232a0012f5e0c70f8f1c58e00aa746ced3c21d9c646b",
+          "sha1": "9d4ec35e403ebc1a7d5dcdb1b18fd1762a24c966",
+          "md5": "e6211b0ce30adb6910c743dacbb1afa2"
         }
       ]
     }
