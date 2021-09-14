@@ -1,0 +1,238 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.loopmediagroup.client",
+    "module": "android-ui",
+    "version": "1.6.1-10294",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.9",
+      "buildId": "qugbbewu3rdfzecr7xjipeexly"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.databinding",
+          "module": "baseLibrary",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "com.android.databinding",
+          "module": "library",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "com.android.databinding",
+          "module": "adapters",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.5.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "android-ui-1.6.1-10294.aar",
+          "url": "android-ui-1.6.1-10294.aar",
+          "size": 1418919,
+          "sha512": "f029cdb0eddc6a0a1988658ed70c0962680013946aafd59e579c514efa00871d61922a4a41c0f8abef77f981f498a4db882ed2f4baa3e36509682c4893eb70d3",
+          "sha256": "7639165b2b626934c51e37d5ea2802004459b7ed6c06f68caf2d59cfb3d0ff02",
+          "sha1": "e0548b295e8ce46b25a7c35bf5903c6512efc09c",
+          "md5": "e90c580e16213a453e8190e80698dee2"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.databinding",
+          "module": "baseLibrary",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "com.android.databinding",
+          "module": "library",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "com.android.databinding",
+          "module": "adapters",
+          "version": {
+            "requires": "4.2.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.5.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-android-extensions-runtime",
+          "version": {
+            "requires": "1.5.10"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "sdk",
+          "version": {
+            "requires": "1.6.1-rc.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.4.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.4.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "support-v4",
+          "version": {
+            "requires": "28.0.0"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "appcompat-v7",
+          "version": {
+            "requires": "28.0.0"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "recyclerview-v7",
+          "version": {
+            "requires": "28.0.0"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "cardview-v7",
+          "version": {
+            "requires": "28.0.0"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "design",
+          "version": {
+            "requires": "28.0.0"
+          }
+        },
+        {
+          "group": "com.android.support.constraint",
+          "module": "constraint-layout",
+          "version": {
+            "requires": "1.1.3"
+          }
+        },
+        {
+          "group": "android.arch.lifecycle",
+          "module": "extensions",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-maps",
+          "version": {
+            "requires": "15.0.1"
+          }
+        },
+        {
+          "group": "com.google.maps.android",
+          "module": "android-maps-utils",
+          "version": {
+            "requires": "0.5"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.7.1"
+          }
+        },
+        {
+          "group": "com.hannesdorfmann",
+          "module": "adapterdelegates3",
+          "version": {
+            "requires": "3.0.1"
+          }
+        },
+        {
+          "group": "nl.dionsegijn",
+          "module": "konfetti",
+          "version": {
+            "requires": "1.3.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "android-ui-1.6.1-10294.aar",
+          "url": "android-ui-1.6.1-10294.aar",
+          "size": 1418919,
+          "sha512": "f029cdb0eddc6a0a1988658ed70c0962680013946aafd59e579c514efa00871d61922a4a41c0f8abef77f981f498a4db882ed2f4baa3e36509682c4893eb70d3",
+          "sha256": "7639165b2b626934c51e37d5ea2802004459b7ed6c06f68caf2d59cfb3d0ff02",
+          "sha1": "e0548b295e8ce46b25a7c35bf5903c6512efc09c",
+          "md5": "e90c580e16213a453e8190e80698dee2"
+        }
+      ]
+    }
+  ]
+}
