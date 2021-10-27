@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.9",
-      "buildId": "yq6u3piv6zcj3l55nbs2ge5zgm"
+      "buildId": "akpsxp37efhatkgyjjfia7jzey"
     }
   },
   "variants": [
@@ -57,11 +57,11 @@
         {
           "name": "android-ui-1.6.2-1.aar",
           "url": "android-ui-1.6.2-1.aar",
-          "size": 1430919,
-          "sha512": "31ec2095929b9b1ac9ecea2254a314068e65ea7edbe8504fc0db367562dd3df434ac8e592725797e2af847b912d4ee99e2e668bc6b0a651ffc723a1c0aced6a9",
-          "sha256": "622bbb4646fc35397fad834979056c117f18a286327ed71f40dfb9886001f53c",
-          "sha1": "537ca32caf5b1a86c1277b588af15fe2e8bba9ad",
-          "md5": "94cf151b046b2a0d21b0e44fc2fa2598"
+          "size": 1430957,
+          "sha512": "c8af8f912c0ba4bd2077fb3e222cd2443dafe9aeb3904203eff437c0ec0eaf1ece240dd914e5e9c9cdaa704a637f579f07d7b1972713f442978484ad6f61edb3",
+          "sha256": "bda2dfcfd985132702a52b6d89a0e5832319f1083cace9a4410b26c4a6f2948a",
+          "sha1": "d3abb1ed1feb40062f36dc199218d33229f099e1",
+          "md5": "e69aca1bed25c56f90e5ed740b5d279e"
         }
       ]
     },
@@ -113,7 +113,7 @@
           "group": "com.loopmediagroup.client",
           "module": "sdk",
           "version": {
-            "requires": "1.6.1-rc.1"
+            "requires": "1.6.1-rc.2"
           }
         },
         {
@@ -226,11 +226,11 @@
         {
           "name": "android-ui-1.6.2-1.aar",
           "url": "android-ui-1.6.2-1.aar",
-          "size": 1430919,
-          "sha512": "31ec2095929b9b1ac9ecea2254a314068e65ea7edbe8504fc0db367562dd3df434ac8e592725797e2af847b912d4ee99e2e668bc6b0a651ffc723a1c0aced6a9",
-          "sha256": "622bbb4646fc35397fad834979056c117f18a286327ed71f40dfb9886001f53c",
-          "sha1": "537ca32caf5b1a86c1277b588af15fe2e8bba9ad",
-          "md5": "94cf151b046b2a0d21b0e44fc2fa2598"
+          "size": 1430957,
+          "sha512": "c8af8f912c0ba4bd2077fb3e222cd2443dafe9aeb3904203eff437c0ec0eaf1ece240dd914e5e9c9cdaa704a637f579f07d7b1972713f442978484ad6f61edb3",
+          "sha256": "bda2dfcfd985132702a52b6d89a0e5832319f1083cace9a4410b26c4a6f2948a",
+          "sha1": "d3abb1ed1feb40062f36dc199218d33229f099e1",
+          "md5": "e69aca1bed25c56f90e5ed740b5d279e"
         }
       ]
     }
