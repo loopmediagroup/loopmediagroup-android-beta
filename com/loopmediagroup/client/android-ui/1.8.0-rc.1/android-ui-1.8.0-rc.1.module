@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.9",
-      "buildId": "rwuouphwdrgdfc6lhl2qf4o6ze"
+      "buildId": "5iuxhpn3jbgq7bqua4fvfc4hly"
     }
   },
   "variants": [
@@ -57,11 +57,11 @@
         {
           "name": "android-ui-1.8.0-rc.1.aar",
           "url": "android-ui-1.8.0-rc.1.aar",
-          "size": 1375497,
-          "sha512": "22c9691ada091aa98cf502b79d6f50d18d587e26f5047529f0db91aa899a3dab2f24923549503bb434e1cad14d030636b5532496226b46ac8f8061b017ca8a02",
-          "sha256": "15a073ac5318fc734c48a136911b6c2266a9e0fb65232e34fe368022d930ddbc",
-          "sha1": "8213ea1c55152f77ba7573cfadf02fa9cca0f6e1",
-          "md5": "af5b0f23d86913b77e03fa2190aa7d46"
+          "size": 1375599,
+          "sha512": "a924d727512bd635e0009b3ad287775b251dfa3d01098dc919c13b642f939afeaecb43b3447a940e5f7b49219c89a934aefcd98b3d4a60077365ebe6c8ed8128",
+          "sha256": "50659312381ff485c6257dcdeec194d51f9b8141b9c2990a8adcc75b6e2a9510",
+          "sha1": "4179f338430226d3e091a8ae375015d84bcaaf7d",
+          "md5": "ef8bedf00583d04c8b7af914597ccc71"
         }
       ]
     },
@@ -226,11 +226,11 @@
         {
           "name": "android-ui-1.8.0-rc.1.aar",
           "url": "android-ui-1.8.0-rc.1.aar",
-          "size": 1375497,
-          "sha512": "22c9691ada091aa98cf502b79d6f50d18d587e26f5047529f0db91aa899a3dab2f24923549503bb434e1cad14d030636b5532496226b46ac8f8061b017ca8a02",
-          "sha256": "15a073ac5318fc734c48a136911b6c2266a9e0fb65232e34fe368022d930ddbc",
-          "sha1": "8213ea1c55152f77ba7573cfadf02fa9cca0f6e1",
-          "md5": "af5b0f23d86913b77e03fa2190aa7d46"
+          "size": 1375599,
+          "sha512": "a924d727512bd635e0009b3ad287775b251dfa3d01098dc919c13b642f939afeaecb43b3447a940e5f7b49219c89a934aefcd98b3d4a60077365ebe6c8ed8128",
+          "sha256": "50659312381ff485c6257dcdeec194d51f9b8141b9c2990a8adcc75b6e2a9510",
+          "sha1": "4179f338430226d3e091a8ae375015d84bcaaf7d",
+          "md5": "ef8bedf00583d04c8b7af914597ccc71"
         }
       ]
     }
