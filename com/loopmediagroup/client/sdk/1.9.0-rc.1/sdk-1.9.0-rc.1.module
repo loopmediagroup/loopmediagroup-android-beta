@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.9",
-      "buildId": "sdyl2fy2m5f57as4vyrt462bk4"
+      "buildId": "ztxesydrrjdfrjcaly7gr4e634"
     }
   },
   "variants": [
@@ -24,13 +24,6 @@
       },
       "dependencies": [
         {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.5.30"
-          }
-        },
-        {
           "group": "com.loopmediagroup.client",
           "module": "common",
           "version": {
@@ -50,17 +43,24 @@
           "version": {
             "requires": "1.9.0-rc.1"
           }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
         }
       ],
       "files": [
         {
           "name": "sdk-release.aar",
           "url": "sdk-1.9.0-rc.1.aar",
-          "size": 1775280,
-          "sha512": "109ab3e2e4a128154e2f7f22d78b8c24a9271398fce934b731874d1718aacfda2ed468529ce21c728d348e5c3e6e416a2ccfe6ea2f905c9e8260503de4417ddd",
-          "sha256": "7d3724718b07065ac44b453ba8c13bc2428031ccd0738dc6336c62405aceb2be",
-          "sha1": "20999ac492bce345bffb2ab2702413ea6e8adf50",
-          "md5": "10335e5707d6a4873874cdb2f8dda55b"
+          "size": 1775213,
+          "sha512": "c10756c8a72cb52d4aecb11d5688a9293dcee236129c155ed3a40d1035e7f8e6be69652481cc2095aab22a52d246b3fe0e262248da365c8182ef85042ec43706",
+          "sha256": "f304018cb47f49797e25e879859cb263c750a4b25746f9e983c451c8eacb2189",
+          "sha1": "73deca7ad596e616351504a6423d0cf754a18737",
+          "md5": "55a34b66ff0aa0718353bbf257583ae8"
         }
       ]
     },
@@ -72,13 +72,6 @@
       },
       "dependencies": [
         {
-          "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
-          "version": {
-            "requires": "1.5.30"
-          }
-        },
-        {
           "group": "com.loopmediagroup.client",
           "module": "common",
           "version": {
@@ -100,10 +93,10 @@
           }
         },
         {
-          "group": "org.jetbrains.kotlinx",
-          "module": "kotlinx-coroutines-core",
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.3"
+            "requires": "1.5.30"
           }
         },
         {
@@ -111,6 +104,13 @@
           "module": "kotlin-stdlib-common",
           "version": {
             "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.4.3"
           }
         },
         {
@@ -167,11 +167,11 @@
         {
           "name": "sdk-release.aar",
           "url": "sdk-1.9.0-rc.1.aar",
-          "size": 1775280,
-          "sha512": "109ab3e2e4a128154e2f7f22d78b8c24a9271398fce934b731874d1718aacfda2ed468529ce21c728d348e5c3e6e416a2ccfe6ea2f905c9e8260503de4417ddd",
-          "sha256": "7d3724718b07065ac44b453ba8c13bc2428031ccd0738dc6336c62405aceb2be",
-          "sha1": "20999ac492bce345bffb2ab2702413ea6e8adf50",
-          "md5": "10335e5707d6a4873874cdb2f8dda55b"
+          "size": 1775213,
+          "sha512": "c10756c8a72cb52d4aecb11d5688a9293dcee236129c155ed3a40d1035e7f8e6be69652481cc2095aab22a52d246b3fe0e262248da365c8182ef85042ec43706",
+          "sha256": "f304018cb47f49797e25e879859cb263c750a4b25746f9e983c451c8eacb2189",
+          "sha1": "73deca7ad596e616351504a6423d0cf754a18737",
+          "md5": "55a34b66ff0aa0718353bbf257583ae8"
         }
       ]
     }
