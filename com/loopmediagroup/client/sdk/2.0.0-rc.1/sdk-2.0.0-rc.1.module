@@ -1,0 +1,179 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../sdk/2.0.0-rc.1/sdk-2.0.0-rc.1.module",
+    "group": "com.loopmediagroup.client",
+    "module": "sdk",
+    "version": "2.0.0-rc.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.9",
+      "buildId": "y4rhxg22drbspbkx5xz62yjdaq"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "common",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "domain",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "analytics",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sdk-release.aar",
+          "url": "sdk-2.0.0-rc.1.aar",
+          "size": 1771682,
+          "sha512": "e958329eed99d55e8037a6bdcd44dec37f6a1e95e6cd25b82818ea2d365026c1176a199dcaad42fcaa2e528c5c04267ec81a23bce9c7b043c828a16ec4646af7",
+          "sha256": "3c9e79fe57a1e3e9b0a746aa4319948a906e8468fd74109166f44e29a7cd5f8e",
+          "sha1": "764b0924229ea2478bb9a6b57e13f15e5445ecde",
+          "md5": "46d0fda5912a8ad32565b6e90758ad30"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "common",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "domain",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "analytics",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.4.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "data-access",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "remote-data",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "local-data",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "com.loopmediagroup.client",
+          "module": "sensor-data",
+          "version": {
+            "requires": "2.0.0-rc.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.android.support",
+          "module": "support-annotations",
+          "version": {
+            "requires": "28.0.0"
+          }
+        },
+        {
+          "group": "com.apollographql.apollo",
+          "module": "apollo-runtime",
+          "version": {
+            "requires": "1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sdk-release.aar",
+          "url": "sdk-2.0.0-rc.1.aar",
+          "size": 1771682,
+          "sha512": "e958329eed99d55e8037a6bdcd44dec37f6a1e95e6cd25b82818ea2d365026c1176a199dcaad42fcaa2e528c5c04267ec81a23bce9c7b043c828a16ec4646af7",
+          "sha256": "3c9e79fe57a1e3e9b0a746aa4319948a906e8468fd74109166f44e29a7cd5f8e",
+          "sha1": "764b0924229ea2478bb9a6b57e13f15e5445ecde",
+          "md5": "46d0fda5912a8ad32565b6e90758ad30"
+        }
+      ]
+    }
+  ]
+}
