@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.9",
-      "buildId": "4obdlj4kp5cxfbigzgtfaxuhti"
+      "buildId": "wvk3rldqdjh2ppd6rb7u2issui"
     }
   },
   "variants": [
@@ -57,11 +57,11 @@
         {
           "name": "android-ui-2.0.0-rc.2.aar",
           "url": "android-ui-2.0.0-rc.2.aar",
-          "size": 1371170,
-          "sha512": "2d9849830a4697898f37775a5e163bc37a1a54084874de09900133278f238f38e57edde8c0b9c22d744d3dfb83860c5f093b56780fa80e4da29f4849f4241aad",
-          "sha256": "8a72ec92a54d5e21e406204e1c1f7c34d5055b6b97ac65d1ba72bd681aff51f2",
-          "sha1": "08fe06e3b68179466fd0ebee5271fb6b983b9daf",
-          "md5": "c2bbd46a698dab7debe52b2b963d8a67"
+          "size": 1371541,
+          "sha512": "2a6a14e6345614fa56b02fa94928f7a44cbe6fec09eafc5753c616390fd815b88944784fff74e902de6ba7c68a7bad508733d692d8cff9a5c12a24e55ea1d74d",
+          "sha256": "460fad1b6a652d0b9512e0d0d597ae52717a3409563bf562be95f4fe86dd262c",
+          "sha1": "8a7b368d83e7daea8fba149b69bd628ce7093e4e",
+          "md5": "60e1ee840532262aee9c3810770e2bbb"
         }
       ]
     },
@@ -113,7 +113,7 @@
           "group": "com.loopmediagroup.client",
           "module": "sdk",
           "version": {
-            "requires": "2.0.0-rc.1"
+            "requires": "2.0.0-rc.4"
           }
         },
         {
@@ -226,11 +226,11 @@
         {
           "name": "android-ui-2.0.0-rc.2.aar",
           "url": "android-ui-2.0.0-rc.2.aar",
-          "size": 1371170,
-          "sha512": "2d9849830a4697898f37775a5e163bc37a1a54084874de09900133278f238f38e57edde8c0b9c22d744d3dfb83860c5f093b56780fa80e4da29f4849f4241aad",
-          "sha256": "8a72ec92a54d5e21e406204e1c1f7c34d5055b6b97ac65d1ba72bd681aff51f2",
-          "sha1": "08fe06e3b68179466fd0ebee5271fb6b983b9daf",
-          "md5": "c2bbd46a698dab7debe52b2b963d8a67"
+          "size": 1371541,
+          "sha512": "2a6a14e6345614fa56b02fa94928f7a44cbe6fec09eafc5753c616390fd815b88944784fff74e902de6ba7c68a7bad508733d692d8cff9a5c12a24e55ea1d74d",
+          "sha256": "460fad1b6a652d0b9512e0d0d597ae52717a3409563bf562be95f4fe86dd262c",
+          "sha1": "8a7b368d83e7daea8fba149b69bd628ce7093e4e",
+          "md5": "60e1ee840532262aee9c3810770e2bbb"
         }
       ]
     }
