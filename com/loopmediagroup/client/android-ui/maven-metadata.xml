@@ -3,8 +3,8 @@
   <groupId>com.loopmediagroup.client</groupId>
   <artifactId>android-ui</artifactId>
   <versioning>
-    <latest>2.0.0-rc.14</latest>
-    <release>2.0.0-rc.14</release>
+    <latest>2.0.1-rc.1</latest>
+    <release>2.0.1-rc.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1-2816</version>
@@ -199,7 +199,8 @@
       <version>2.0.0-rc.12</version>
       <version>2.0.0-rc.13</version>
       <version>2.0.0-rc.14</version>
+      <version>2.0.1-rc.1</version>
     </versions>
-    <lastUpdated>20221221003758</lastUpdated>
+    <lastUpdated>20230113220257</lastUpdated>
   </versioning>
 </metadata>
